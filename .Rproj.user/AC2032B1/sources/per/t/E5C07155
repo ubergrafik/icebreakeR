@@ -3,9 +3,9 @@
     "path": "~/GitHub/icebreakeR/scripts/icebreakeR_script1.R",
     "project_path": "scripts/icebreakeR_script1.R",
     "type": "r_source",
-    "hash": "0",
+    "hash": "1946348499",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1623383895636.0,
     "source_on_save": false,
     "relative_order": 1,
@@ -17,11 +17,11 @@
         "scrollLine": "45"
     },
     "folds": "",
-    "lastKnownWriteTime": 1623384078,
+    "lastKnownWriteTime": 1623389595,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1623385650352,
+    "last_content_update": 1623389595475,
     "read_only": false,
     "read_only_alternatives": []
 }
